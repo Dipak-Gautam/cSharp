@@ -1,0 +1,14 @@
+c:\Users\ACER\Desktop\cSharp\Main\bin\Debug\net8.0\Main.exe
+c:\Users\ACER\Desktop\cSharp\Main\bin\Debug\net8.0\Main.deps.json
+c:\Users\ACER\Desktop\cSharp\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+c:\Users\ACER\Desktop\cSharp\Main\bin\Debug\net8.0\Main.dll
+c:\Users\ACER\Desktop\cSharp\Main\bin\Debug\net8.0\Main.pdb
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.dll
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\refint\Main.dll
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.pdb
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\ref\Main.dll

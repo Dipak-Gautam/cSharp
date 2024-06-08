@@ -1,0 +1,34 @@
+class MainProgram{
+
+    public static void Main(string [] args)
+    {
+        Console.WriteLine("Enter name of student :");
+        string name = Console.ReadLine();
+        Console.WriteLine("enter roll Number :");
+        int roll = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("enter marks in three subject");
+        double m1= Convert.ToDouble(Console.ReadLine());
+        double m2= Convert.ToDouble(Console.ReadLine());
+        double m3= Convert.ToDouble(Console.ReadLine());
+        string result;
+        string division ="--";
+        if(m1>=40 && m2>=40 && m3>=40){
+            result = "pass";
+            double total = m1+m2+m3;
+            double percet=total/3;
+            if(percet>=80){
+                division="distion";
+            }else if(percet >=60){
+                division ="first";
+            }else if(percet <60){
+                division="second";
+            }
+        } else {
+            result ="fail";
+        }
+        Console.WriteLine("name :"+name);
+        Console.WriteLine("roll:"+roll);
+        Console.WriteLine("result :"+result);
+        Console.WriteLine("division :" +division);
+    }
+}

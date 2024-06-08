@@ -1,0 +1,16 @@
+class Mainprogram{
+    public static void Main(string [] args)
+    {
+        Console.WriteLine("enter radius of circle");
+        double rad = Convert.ToDouble(Console.ReadLine());
+        double res= CalculateArea(rad);
+        Console.WriteLine("result ie area = "+res);
+    }
+
+            static double CalculateArea(double rad)
+            {
+                double pi=3.1416;
+                double res = pi*rad*rad;
+                return (res);
+            }
+}
