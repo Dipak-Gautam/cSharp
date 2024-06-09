@@ -1,23 +1,16 @@
-﻿ class MainProgram
- {
-                public static void Main(string [] args)
-                {
-                    Console.WriteLine(" even number using for loop :");
-                    for(int i= 2;i<=100;i=i+2)
-                    {
-                        Console.Write(i+"\t");
-                    }
-                    DOloop();
-                }
-
-               public static void DOloop()
-               {
-                Console.WriteLine("while Lopo");
-                    int i=1;
-                    while(i<=100){
-                        Console.Write(i+"\t");
-                        i=i+2;
-                    }
-                }
- }
- 
+﻿using System;
+using System.Collections;
+class MainProgram
+{
+    public static void Main(string[] args){
+        ArrayList mynumb = new ArrayList();
+        mynumb = [1,2,3,4,5];
+        Console.WriteLine("nuber :"+mynumb[1]);
+        Console.WriteLine("length :" + mynumb.Count);
+        mynumb.Add(6);
+        Console.WriteLine("length :" + mynumb.Count);
+        foreach(int items in mynumb){
+            Console.Write("\t"+items);
+        }
+    }
+}

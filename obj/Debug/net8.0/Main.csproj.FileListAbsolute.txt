@@ -12,3 +12,4 @@ c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\refint\Main.dll
 c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.pdb
 c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
 c:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\ref\Main.dll
+C:\Users\ACER\Desktop\cSharp\Main\obj\Debug\net8.0\Main.sourcelink.json

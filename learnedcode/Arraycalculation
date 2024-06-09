@@ -1,0 +1,18 @@
+using System.Linq;
+class MainProgram
+{
+    public static void Main(string[]args)
+    {
+        int[] array1={1,2,3 ,5,8,3,87,34,6,34,34,1,4,67,4,3,6,8,9,11};
+        
+        Console.WriteLine("item : "+array1[2]);
+        Array.Sort(array1);
+        for(int i=0;i<array1.Length;i++){
+            Console.Write(array1[i]+"\t");
+        }
+        Console.WriteLine("\n sum = "+array1.Sum());
+        Console.WriteLine("min = "+array1.Min());
+        Console.WriteLine("max = "+array1.Max());
+
+    }
+}

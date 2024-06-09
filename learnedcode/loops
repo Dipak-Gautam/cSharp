@@ -1,0 +1,22 @@
+ class MainProgram
+ {
+                public static void Main(string [] args)
+                {
+                    Console.WriteLine(" even number using for loop :");
+                    for(int i= 2;i<=100;i=i+2)
+                    {
+                        Console.Write(i+"\t");
+                    }
+                    DOloop();
+                }
+
+               public static void DOloop()
+               {
+                Console.WriteLine("while Lopo");
+                    int i=1;
+                    while(i<=100){
+                        Console.Write(i+"\t");
+                        i=i+2;
+                    }
+                }
+ }

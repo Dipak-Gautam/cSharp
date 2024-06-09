@@ -1,0 +1,23 @@
+class Mainprogram 
+{
+    public static void Main(string[]args)
+    {
+        Console.WriteLine("enter length and breadth of rectangle");
+        double len = Convert.ToDouble(Console.ReadLine());
+        double bre = Convert.ToDouble(Console.ReadLine());
+         Console.WriteLine("enter length and breadth of rectangle"+len + bre);
+        Rectanglearea r = new Rectanglearea(len,bre);
+        double res = r.GetArea();
+        Console.WriteLine("area is :",res);
+    }
+
+    class Rectanglearea(double len, double bre)
+    {
+        double length = len, bredth = bre;
+
+        public double GetArea ()
+        {
+            return length;
+        }
+    }
+}
