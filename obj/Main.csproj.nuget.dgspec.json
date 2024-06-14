@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj": {
+    "C:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "c:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\cSharp\\Main\\Main.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ACER\\Desktop\\cSharp\\Main\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\cSharp\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
